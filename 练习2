@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+<meta charset="utf-8">
+<title>My Scond web page</title>
+<body>
+  <h1>
+  <h2>
+      <ul>
+        <li>apples</li>
+      </ul>
+      <table border =>
+        <tr>
+          <th>Month</th>
+        </tr>
+        <tr>
+          <td>Auguest</td>
+          <td>$1500</td>
+          <td>$300</td>
+        </tr>
